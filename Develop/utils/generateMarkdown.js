@@ -2,6 +2,7 @@
 function generateMarkdown(data) {
 console.log(data)
   return (`# ${data.title}
+  ![badmath](https://img.shields.io/badge/license-${data.license_name}-green)
 
   # Welcome to the ${data.title}'s Project Page! : 
 

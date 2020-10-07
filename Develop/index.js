@@ -48,6 +48,10 @@ const questions = [
 {
     message: "What is your Github user name?",
     name: "github_name"
+},
+{
+    message: "What is your Github user name?",
+    name: "github_name"
 }
 ];
 
