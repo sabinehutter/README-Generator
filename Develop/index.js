@@ -20,15 +20,30 @@ const questions = [
     message: "What is your projects description?",
     name: "desc"
 }
-// ,
-// {
-//     message: "What are your projects installation instructions?",
-//     instructions: "instructions"
-// },
-// {
-//     message: "What is your projects usage information?",
-//     usage: "usage"
-// }
+,
+{
+    message: "What are your projects installation instructions?",
+    name: "instructions"
+}
+,
+{
+    message: "What is your projects usage information?",
+    name: "usage"
+}, 
+{
+    message: "What is your projects contribution guidelines?",
+    name: "contribution_guideline"
+}, 
+{
+    message: "What are the testing instructions for your application?",
+    name: "test_instruct"
+}, 
+{
+    message: "What are the testing instructions for your application?",
+    name: "test_instruct",
+    type : "list",
+    choices : ["hi", "hey"]
+}
 ];
 
 // function to initialize program
