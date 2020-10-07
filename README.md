@@ -2,9 +2,10 @@
   ![badmath](https://img.shields.io/badge/license-MIT-green)
 
   # Welcome to the README Generator's Project Page!  
+  P.S. This READMED was created using this application! (Don't worry this text was added in after it was generated) 
 
   ## Description
-    This application allows you to automatically enter information and generate a professional README file for your project and application 
+    This application allows you to automatically enter information and generate a professional README file for your project and application. 
 
   ## Table of Contents
   Navigate through the README Using the Table of Contents : 
