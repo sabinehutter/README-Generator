@@ -41,6 +41,8 @@ console.log(data)
 
   ## Questions
   [Link to Creator Github](https://github.com/${data.github_name})
+
+  Please forward all questions about the project to [${data.email} ](${data.email} )
   `)
 }
 

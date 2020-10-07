@@ -50,8 +50,8 @@ const questions = [
     name: "github_name"
 },
 {
-    message: "What is your Github user name?",
-    name: "github_name"
+    message: "What is your email so users can email you about questions regarding your project?",
+    name: "email"
 }
 ];
 
