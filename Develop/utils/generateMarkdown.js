@@ -33,7 +33,7 @@ console.log(data)
   ${data.contribution_guideline}
 
   ## Badges
-  ![badmath](https://img.shields.io/badge/license-${data.license_name}-green)
+  ![badmath](https://img.shields.io/badge/license-${data.license}-green)
   
 
   ## Tests
@@ -42,7 +42,7 @@ console.log(data)
   ## Questions
   [Link to Creator Github](https://github.com/${data.github_name})
 
-  Please forward all questions about the project to [${data.email} ](${data.email} )
+  Please forward all questions about the project to <${data.github_name}> )
   `)
 }
 
