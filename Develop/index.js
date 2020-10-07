@@ -39,10 +39,15 @@ const questions = [
     name: "test_instruct"
 }, 
 {
-    message: "What are the testing instructions for your application?",
-    name: "test_instruct",
+    message: "What license does your application have?",
+    name: "license",
     type : "list",
-    choices : ["hi", "hey"]
+    choices : ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"]
+}
+,
+{
+    message: "What is your Github user name?",
+    name: "github_name"
 }
 ];
 

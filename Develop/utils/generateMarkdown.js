@@ -9,7 +9,15 @@ console.log(data)
     ${data.desc}
 
   ## Table of Contents
+  Navigate through the README Using the Table of Contents : 
 
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributions](#contributing)
+  * [Badges](#badges)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
     ${data.instructions}
@@ -18,17 +26,19 @@ console.log(data)
     ${data.usage}
 
   ## License
+  ${data.license}
 
   ## Contributing
   ${data.contribution_guideline}
 
   ## Badges
+  
 
   ## Tests
   ${data.test_instruct}
 
-  ##Questions
-
+  ## Questions
+  [Link to Creator Github](https://github.com/${data.github_name})
   `)
 }
 
