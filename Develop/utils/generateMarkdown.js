@@ -32,6 +32,7 @@ console.log(data)
   ${data.contribution_guideline}
 
   ## Badges
+  ![badmath](https://img.shields.io/badge/license-${data.license_name}-green)
   
 
   ## Tests
